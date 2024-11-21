@@ -1,0 +1,7 @@
+[server]
+
+enableStaticServing = true
+port = 3876
+
+[theme]
+base='dark'
